@@ -10,5 +10,3 @@ const misDatos = [
         url: "http://amazon.com/cien_años_de_soledad"
     }
 ]
-console.log(misDatos)
-console.log(misDatos.dev)
